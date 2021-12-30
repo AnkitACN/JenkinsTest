@@ -7,7 +7,7 @@ public class NumberConverterFixed {
     } // avoids unnecessary unboxing
 
     public int toInt(String number) {
-        return Integer.parseInt(number);
+        return Integer.parseInt(number)
     } // avoids unnecessary unboxing
 
 }
